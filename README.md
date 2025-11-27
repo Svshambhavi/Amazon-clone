@@ -8,10 +8,10 @@ This project focuses on layout, navigation bar, product section, and responsive 
 ## 📸 Screenshots
 
 ### Home Page
-![Home](./screenshots/Homepage.png)
+![Home](./Screenshots/Homepage.png)
 
 ### Product Section
-![Product](./screenshots/Product.png)
+![Product](./Screenshots/Product.png)
 
 
 ---
